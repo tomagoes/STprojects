@@ -13,7 +13,6 @@
  *  on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License
  *  for the specific language governing permissions and limitations under the License.
  *
- * Change the mode manually (by pressing the app's play button) and automatically at the ecobee thermostat(s)
  */
 definition(
 	name: "ecobeeEcho",
