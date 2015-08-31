@@ -14,8 +14,6 @@
  *  for the specific language governing permissions and limitations under the License.
  *
  * Change the mode manually (by pressing the app's play button) and automatically at the ecobee thermostat(s)
- * If you need to set it for both Away and Home modes, you'd need to save them as 2 distinct apps
- * Don't forget to set the app to run only for the target mode.
  */
 definition(
 	name: "ecobeeEcho",
